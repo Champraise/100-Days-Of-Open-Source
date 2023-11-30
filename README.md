@@ -44,4 +44,9 @@ In the next 100 days, the primary goal is to enhance documentation skills by 30%
 
 This challenge is a personal commitment to continuous learning and improvement. Regularly review progress against defined metrics and adjust goals as needed.
 
+
+## Daily Progress Tracker 📝
+
+[100DaysOfOSS Progress Tracker](<https://github.com/Champraise/100-Days-Of-Open-Source/blob/main/progress-tracker.md>)
+
 Let the documentation adventure begin! 🚀📝
