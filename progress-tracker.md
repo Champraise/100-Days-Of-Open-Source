@@ -1,4 +1,4 @@
-# 100DaysOfOSS Progress Tracker
+# 100 Days Of Open Source Documentation Progress Tracker
 
 ## Day 1: [Date]
 
