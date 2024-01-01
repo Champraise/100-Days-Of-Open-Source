@@ -2,7 +2,15 @@
 
 ## Goals 🎯
 
-In the next 100 days, the primary goal is to enhance documentation skills by 30%. This improvement will be achieved through active participation in open-source projects, engaging in meaningful contributions, and learning from the vast open-source community. The approach involves starting with smaller, manageable tasks and progressively tackling more complex challenges.
+Target: Enhance documentation skills by 30% within the next 100 days.
+
+**Approach:**
+
+**Active Open-Source Participation:**
+Immerse myself in open-source projects by actively contributing meaningful work. This hands-on experience will provide invaluable learning opportunities from the established community.
+
+**Gradual Progression:**
+Begin with smaller, manageable tasks to build a solid foundation. As confidence and expertise grow, gradually take on more complex challenges to push my documentation skills to new heights.
 
 ----
 
