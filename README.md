@@ -3,7 +3,7 @@
 ## Goals 🎯
 
 **Target:** 
-Enhance documentation skills by 30% within the next 100 days.
+Enhance documentation skills by 70% within the next 100 days.
 
 **Approach:**
 
