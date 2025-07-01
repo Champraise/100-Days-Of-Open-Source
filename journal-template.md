@@ -2,9 +2,10 @@
 
 ## Template for Each Day
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: Day 1
+- **Description**: Today's focus is simply at getting started, I needed something to commit to for the next 100 days.
+- **Tasks completed**: 1st commit
+- **Challenges faced**: None
+- **Resources used**: None
+- **OpenSauced Highlight**: None
+<br>

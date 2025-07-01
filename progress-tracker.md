@@ -1,9 +1,11 @@
 # 100 Days Of Open Source Documentation Progress Tracker
 
-## Day 1: [01-01-2024]
+## Day 1: [01-07-2025]
 
-- **Project**: Technical Writing BootCamp [Personal Project]
-- **Description**: My goal is to complete the Technical Writing BootCamp by me. Starting with Google technical writing course.
-- **Tasks completed**: Read the first chapter of Google Technical Writing Course
+- **Project**: Not defined yet
+- **Description**: I needed something to commit to for the next 100 days.
+- **Tasks completed**: None
 - **Challenges faced**: None
-- **Resources used**: [Google Technical Writing Course](https://developers.google.com/tech-writing)
+- **Resources used**: None
+- **OpenSauced Highlight**: None
+<br>
